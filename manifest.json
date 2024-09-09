@@ -1,11 +1,11 @@
 {
-    "name": "omega_app",
-    "short_name": "omega_app",
+    "name": "Hook & Eye",
+    "short_name": "Hook & Eye",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "A new project for the Hook and Eye Department in Omega Line LTD.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
